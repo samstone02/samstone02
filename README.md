@@ -9,10 +9,15 @@ I'm currently working on a mod for Minecraft. It's almost finished, just need to
 Please reach out to me through my socials!
 
 **Email: samuelrystone@gmail.com**
+
 **Personal Site: TO BE DETERMINED**
+
 **LinkedIn: https://www.linkedin.com/in/samuelrystone**
+
 Old GitHub: https://github.com/sstone20
+
 Current GitHub: https://github.com/samstone02
+
 CurseForge: https://www.curseforge.com/members/sams/projects
 
 <!---
