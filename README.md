@@ -6,7 +6,7 @@ I also like animals. Especially bugs, fish, reptiles, and amphibians.
 
 # Contact
 - Email: samuelrystone@gmail.com
-- LinkedIn: https://www.linkedin.com/in/samuelrystone
+- LinkedIn: https://www.linkedin.com/in/samuelryanstone
 
 # Profiles
 - Old GitHub: https://github.com/sstone20
