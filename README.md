@@ -1,10 +1,8 @@
 # Revolutionizing the *ENTIRE* world one line at a time
 
-Hello, visitor. Name's Sam Stone. Software developer. I am passionate about video games and the internet.
+Name's Stone. Sam Stone. I pay rent as a web developer, and I like making games for fun. I'm currently checking out Godot.
 
-I currently work part-time at Little Caesars as a backend developer, but I'm looking for full time work. Reach out if you want to!
-
-I'm currently working on a mod for Minecraft. It's almost finished, just need to squash some bugs. Check it out on my CurseForge profile linked below.
+I also like animals. Especially bugs, fish, reptiles, and amphibians.
 
 # Contact
 - Email: samuelrystone@gmail.com
