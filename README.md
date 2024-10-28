@@ -1,8 +1,6 @@
 # Revolutionizing the *ENTIRE* world one line at a time
 
-Name's Stone. Sam Stone. I pay rent as a web developer, and I like making games for fun. I'm currently checking out Godot.
-
-I also like animals. Especially bugs, fish, reptiles, and amphibians.
+Name's Stone. Sam Stone. I pay rent as a web developer, and I like making games for fun.
 
 # Contact
 - Email: samuelrystone@gmail.com
