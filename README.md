@@ -1,6 +1,9 @@
-# Revolutionizing the *ENTIRE* world one line at a time
+I make games for fun.
 
-Name's Stone. Sam Stone. I pay rent as a web developer, and I like making games for fun.
+Achievements
+- Went to college
+- Pays taxes
+- Handsome (very)
 
 # Contact
 - Email: samuelrystone@gmail.com
